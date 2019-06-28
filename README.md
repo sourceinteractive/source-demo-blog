@@ -3,7 +3,7 @@
 In this demonstration, we wanted to show you how fast it is to set up a blog structure with new tools.  
 We use [Gatsby](https://www.gatsbyjs.org/), [Prismic](https://prismic.io) and [Netlify](https://netlify.com).   
 
-You can find the article on [Medium](https://medium.com/@im_charp/up-and-running-vcs-english-version-992f61555291).  
+You can follow the tutorial step by step on [Medium](https://medium.com/@im_charp/up-and-running-vcs-english-version-992f61555291).  
 Preview, the result here : [https://gatsby-article.netlify.com](https://gatsby-article.netlify.com).
 
 
