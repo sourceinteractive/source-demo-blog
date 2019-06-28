@@ -1,0 +1,22 @@
+header {
+  position: relative;
+  height: 70px;
+  line-height: 75px;
+  background: #3a3a3a;
+  padding: 0 50px;
+
+  h1,
+  a {
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  h1 {
+    width: 100%;
+  }
+
+  a {
+    display: block;
+    text-align: center;
+  }
+}
