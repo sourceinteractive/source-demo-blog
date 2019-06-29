@@ -21,11 +21,6 @@ exports.createPages = ({ graphql, actions }) => {
                 node {
                   id
                   slugs
-                  data {
-                    title {
-                      text
-                    }
-                  }
                 }
               }
             }
